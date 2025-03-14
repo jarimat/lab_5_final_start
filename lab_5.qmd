@@ -1,0 +1,13 @@
+---
+title: 'Lab 5: Final Project Proposal'
+format:
+   html:
+    code-fold: true
+    toc: true
+    self-contained: true
+subtitle: 'Introduction to Statistics in R'
+author: Jake Matullo
+execute:
+  echo: true
+---
+
