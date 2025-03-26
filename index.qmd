@@ -1,7 +1,0 @@
----
-title: ESS 330 Project Proposals
-authors: Jake Matullo and Jessica Magalit
-bibliography: references.bib
-csl: ecology.csl
----
-

@@ -1,13 +1,13 @@
 project:
   type: manuscript
+  output-dir: docs
 
 manuscript:
-  article: index.qmd
+  article: lab_5.qmd
 
 format:
   html:
     self-contained: true
-    output-dir: docs
     comments:
       hypothesis: true
   docx: default
